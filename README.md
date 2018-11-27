@@ -1,5 +1,5 @@
 # Web-Proxy
-There are four JAVA files, ProxyCache.java, ProxyCache2.java, HttpRequest.java, and HttpResponse.java.
+There are four JAVA files, Proxy.java, ProxyCache.java, HttpRequest.java, and HttpResponse.java.
 <br>
 Proxy.java is my basic assignment without Caching function extension. While ProxyCache.java is my implementation with Caching
 function extension. They can be compiled with "javac -deprecation Proxy.java" (or "javac -deprecation ProxyCache.java") in command line.
